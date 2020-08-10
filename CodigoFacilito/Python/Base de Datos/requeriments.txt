@@ -1,0 +1,3 @@
+Mysql-python
+PyMySQL
+peewee
